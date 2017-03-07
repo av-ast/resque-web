@@ -43,7 +43,7 @@ end
 If you need a non-default resque server, use this environment variable.
 
 ```
-RAILS_RESQUE_REDIS=123.x.0.456:6712
+REDIS_URL=123.x.0.456:6712
 ```
 ## Security
 
